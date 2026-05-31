@@ -8,10 +8,10 @@
   },
   "states": [
     {
-      "name": "Jester-Hat-Cosmo-Icon.png."
+      "name": "Icon"
     },
     {
-      "name": "equipped-HEAD.png",
+      "name": "equipped-HEAD",
       "directions": 4
     }
   ]
