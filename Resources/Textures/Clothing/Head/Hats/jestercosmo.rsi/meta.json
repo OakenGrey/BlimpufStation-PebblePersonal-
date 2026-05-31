@@ -6,15 +6,13 @@
     "x": 32,
     "y": 32
   },
-  "states": 
+  "states": [
     {
-      "name": "Jester-Hat-Icon"
+      "name": "equipped-HEAD."
     },
     {
-      "name": "Jester-Hat-Cosmo",
+      "name": "equipped-HEAD.png",
       "directions": 4
-    },
-    
     }
-  
-
+  ]
+}
