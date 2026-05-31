@@ -1531,4 +1531,33 @@
   - type: Tag
     tags:
     - PetWearable
-    - CorgiWearable
+    - CorgiWearable    
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatJesterCosmo
+  name: jester hat
+  description: Found in the ruins of a star-shaped planet, the sound they produce is known to have a calming effect.
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Hats/jestercosmo.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Hats/jestercosmo.rsi
+    slots:
+    - HEAD
+  - type: Tag
+    tags:
+    - Hat
+  - type: PhysicalComposition
+    material: Cloth
+  - type: TemperatureProtection
+    heatCoefficient: 0.9
+    coldCoefficient: 0.9
+  - type: Armor
+    modifiers:
+      coefficients:
+        Blunt: 0.95
+        Slash: 0.95
+        Piercing: 0.95
+        Heat: 0.9
+  - type: StaticPrice
+    price: 25

@@ -2,7 +2,7 @@
   name: candle
   parent: BaseItem
   id: Candle
-  description: A thin wick threaded through fat.
+  description: A thin wick threaded through fat. Smells roughly of monkey sweat.
   components:
     - type: Tag
       tags:
