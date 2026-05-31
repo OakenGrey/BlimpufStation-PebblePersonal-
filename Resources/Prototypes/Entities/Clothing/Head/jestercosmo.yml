@@ -1,0 +1,11 @@
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatJesterCosmo
+  name: jester hat
+  description: Found in the ruins of a star-shaped planet, the sound each bell produces is known to have a calming effect.
+  components:
+    - type: Sprite
+      sprite: Clothing/Head/Hats/jestercosmo.rsi
+    - type: Clothing
+      sprite: Clothing/Head/Hats/jestercosmo.rsi
