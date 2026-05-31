@@ -1539,8 +1539,8 @@
   description: Found in the ruins of a star-shaped planet, the sound they produce is known to have a calming effect.
   components:
   - type: Sprite
-    sprite: Resources/Textures/Clothing/Head/Hats/jestercosmo.rsi/
+    sprite: Resources/Textures/Clothing/Head/Hats/jestercosmo.rsi
   - type: Clothing
-    sprite: Resources/Textures/Clothing/Head/Hats/jestercosmo.rsi/
+    sprite: Resources/Textures/Clothing/Head/Hats/jestercosmo.rsi
     slots:
     - HEAD
