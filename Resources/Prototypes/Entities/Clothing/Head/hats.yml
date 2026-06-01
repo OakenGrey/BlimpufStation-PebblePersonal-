@@ -1536,14 +1536,11 @@
 - type: entity
   parent: ClothingHeadBase
   id: ClothingHeadHatJesterCosmo
-  name: Cosmic Clown hat
+  name: Cosmic Clown Hat
   description: Found in the ruins of a star-shaped planet, the sound they produce is known to have a calming effect.
   components:
   - type: Sprite
     sprite: Clothing/Head/Hats/jestercosmo.rsi
   - type: Clothing
     sprite: Clothing/Head/Hats/jestercosmo.rsi
-    clothingVisuals: 
-      head:
-      - state: equipped-head
-        offset: O, 0.05
+   
