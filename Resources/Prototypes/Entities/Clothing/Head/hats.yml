@@ -1543,5 +1543,7 @@
     sprite: Clothing/Head/Hats/jestercosmo.rsi
   - type: Clothing
     sprite: Clothing/Head/Hats/jestercosmo.rsi
-
-  -
+    clothingVisuals: 
+      head:
+      - state: equipped-head
+        offset: O, 0.05
